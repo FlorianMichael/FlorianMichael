@@ -1,9 +1,11 @@
-# Hi there :)
+# Hi there! 👋
 
-My name is Florian, on the internet I am also known as EnZaXD, I am the creator of [ViaForge](https://github.com/ViaVersion/ViaForge) and [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus). <br>
+I'm Florian, also known as EnZaXD on the internet. I'm the creator of [ViaForge](https://github.com/ViaVersion/ViaForge) and [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus).
 
-I play Minecraft since 2014 and had my own server in 2018/19. <br>
-I am a Java and Kotlin Developer since 2018. <br>
-I mainly work on [ViaVersion](https://github.com/ViaVersion), [BetaPackets](https://github.com/BetaPackets) and [Simplex](https://github.com/SimplexDevelopment). <br>
+I'm a 16-year-old Minecraft enthusiast from Germany. I've been immersed in the world of Minecraft since 2014 and even had my own server in 2018. Along the way, I've honed my skills as a Java and Kotlin Developer since 2018.
 
-Feel free to contact me on discord (florianmichael) or join my [server](https://discord.gg/97GXQxuf7W).
+You'll often find me actively contributing to projects like [ViaVersion](https://github.com/ViaVersion), [BetaPackets](https://github.com/BetaPackets), and [ViaVersionAddons](https://github.com/ViaVersionAddons). I'm passionate about enhancing the Minecraft experience and creating innovative solutions for the community.
+
+Feel free to get in touch with me on Discord (username: florianmichael) or join my server at [https://discord.gg/97GXQxuf7W](https://discord.gg/97GXQxuf7W).
+
+Looking forward to connecting and collaborating with fellow Minecraft enthusiasts and developers! 🎮✨
