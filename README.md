@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I'm Florian, also known as EnZaXD on the internet. I'm the creator of [ViaForge](https://github.com/ViaVersion/ViaForge) and [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus).
+I'm Florian, also known as EnZaXD, a 16-year-old Java enthusiast from Germany since 2018.
 
-I'm a 16-year-old Minecraft enthusiast from Germany. I've been immersed in the world of Minecraft since 2014 and even had my own server in 2018. Along the way, I've honed my skills as a Java and Kotlin Developer since 2018.
+I'm the creator of [ViaForge](https://github.com/ViaVersion/ViaForge) and [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus).
 
 You'll often find me actively contributing to projects like [ViaVersion](https://github.com/ViaVersion), [ViaVersionAddons](https://github.com/ViaVersionAddons), and [ViaMCP](https://github.com/ViaVersionMCP).
 
