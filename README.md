@@ -6,4 +6,4 @@ I'm Florian, also known as EnZaXD, a 16-year-old Java enthusiast and student fro
 - I'm the creator of [ViaForge](https://github.com/ViaVersion/ViaForge) and [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus).
 - You can contact me on Discord via **florianmichael** or join my [Discord server](https://discord.gg/97GXQxuf7W).
 
-As a Minecraft Server owner, it's very likely you are using the software I help maintain, feel free to [sponsor me](https://florianmichael.de/donate).
+As a Minecraft server owner, you are likely using the software I help maintain. Feel free to [sponsor me](https://florianmichael.de/donate)!
