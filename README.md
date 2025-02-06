@@ -1,9 +1,9 @@
-# Hi there! 👋
+# Hi there! 👋  
 
-I'm Florian, also known as EnZaXD, a 16-year-old Java enthusiast and student from Germany.
+I'm Florian, also known as EnZaXD—a 17-year-old Java enthusiast and student from Germany.  
 
-- I mainly work on [ViaVersion](https://github.com/ViaVersion), [Cytooxien](https://www.cytooxien.de/) and [Personal GH projects](https://github.com/FlorianMichael?tab=repositories).
-- I'm the creator of [ViaForge](https://github.com/ViaVersion/ViaForge) and [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus).
-- You can contact me on Discord via **florianmichael** or join my [Discord server](https://discord.gg/97GXQxuf7W).
+- 🩷 I'm a core developer at [ViaVersion](https://github.com/ViaVersion), where I maintain [ViaForge](https://github.com/ViaVersion/ViaForge) and [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus).  
+- 📌 I've worked on server projects like [Cytooxien](https://cytooxien.de/) and [TotalFreedom](https://totalfreedom.me/).  
+- ✨ You can reach me on Discord (**florianmichael**) or join my [Discord server](https://discord.gg/97GXQxuf7W).  
 
-As a Minecraft server owner, you are likely using the software I help maintain. Feel free to [sponsor me](https://florianmichael.de/donate)!
+If you're one of the thousands using my software, consider [sponsoring me](https://florianmichael.de/donate) to support my work! 🚀  
