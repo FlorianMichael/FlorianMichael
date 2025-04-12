@@ -1,10 +1,10 @@
 # About Me  
 
-I'm Florian, a 17-year-old Java developer and student from Germany with a strong passion for software development and open-source projects.  
+I'm EnZaXD, 17, from Germany. I write Java code — mostly because I started and never stopped.  
 
-- 💼 Currently employed at [iwmedia](https://github.com/iwmedia).  
-- 🔧 Core developer at [ViaVersion](https://github.com/ViaVersion), maintaining [ViaForge](https://github.com/ViaVersion/ViaForge) and [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus).  
-- 📌 Contributor to projects such as [Cytooxien](https://cytooxien.de/) and [TotalFreedom](https://totalfreedom.me/).  
-- 📬 Reach me on Discord (**florianmichael**) or join my [Discord server](https://discord.gg/97GXQxuf7W).  
+- 💼 Currently working at [iwmedia](https://github.com/iwmedia).  
+- 🔧 Maintainer of [ViaVersion](https://github.com/ViaVersion) and creator of [ViaForge](https://github.com/ViaVersion/ViaForge) and [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus).  
+- 📌 Contributor to projects like [Cytooxien](https://cytooxien.de/) and [TotalFreedom](https://totalfreedom.me/).  
+- 📬 You can find me on Discord (**florianmichael**) or join my [server](https://discord.gg/97GXQxuf7W).  
 
-If you find my work valuable, consider [supporting me](https://florianmichael.de/donate) to help sustain development. 🚀
+If you find my work helpful, feel free to [support me here](https://florianmichael.de/donate). It’s not required, but appreciated. 🚀
