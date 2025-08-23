@@ -1,6 +1,6 @@
 ### Hi ❤️
 
-I'm Florian — a 17-year-old Java developer and high school student from Germany.
+I'm Florian — an 18-year-old Java developer and high school student from Germany.
 
 * 🔧 I'm a project maintainer of [ViaVersion](https://github.com/ViaVersion), [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) and [ViaForge](https://github.com/ViaVersion/ViaForge)
 * 📌 I've worked for several projects, including [OPSUCHT](https://opsucht.net/), [op-smp](https://opsmp.link/discord), [Cytooxien](https://cytooxien.de/) and [TotalFreedom](https://totalfreedom.me/)
