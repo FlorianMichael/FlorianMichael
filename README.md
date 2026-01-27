@@ -4,6 +4,6 @@ I'm Florian — an 18-year-old Java developer and high school student from Germa
 
 * 🔧 I'm a maintainer of [ViaVersion](https://github.com/ViaVersion), [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus), and [ViaForge](https://github.com/ViaVersion/ViaForge).
 * 📌 I’ve worked for several companies and communities, including [iwmedia](https://github.com/iwmedia), [Cytooxien](https://cytooxien.de/), and [TotalFreedom](https://totalfreedom.me/).
-* 📬 Reach me via [email](mailto:florian.michael07@gmail.com), or join my [community server](https://discord.gg/97GXQxuf7W).
+* 📬 Reach me via [email](mailto:contact@florianmichael.de), or join my [community server](https://florianmichael.de/discord).
 
 If you’re one of the millions using the software I help maintain, consider [supporting me here](https://florianmichael.de/donate) - it means a lot ❤️
