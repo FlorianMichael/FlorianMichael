@@ -1,4 +1,4 @@
-### Hi ✨
+### Hi 💫
 
 I'm Florian — an 18-year-old Java developer and high school student from Germany.
 
